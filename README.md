@@ -46,21 +46,21 @@ This simulates an **EL** (Extract & Load) step, which is a basic building block 
 ### 🔹 Azure Data Lake Structure  
 Shows the folder setup inside the storage account.
 
-![Data Lake Structure](screenshots/data-lake-folders.png)
+![Data Lake Structure](screenshots/data-lake-folders.PNG)
 
 ---
 
 ### 🔹 Azure Data Factory Pipeline  
 Visual of the Copy Activity inside the pipeline editor.
 
-![Pipeline Setup](screenshots/pipeline-setup.png)
+![Pipeline Setup](screenshots/pipeline-setup.PNG)
 
 ---
 
 ### 🔹 Successful Pipeline Execution  
 ADF run showing the successful execution status and duration.
 
-![Successful Run](screenshots/successful-run.png)
+![Successful Run](screenshots/successful-run.PNG)
 
 ---
 
