@@ -76,7 +76,7 @@ Copying data between locations may seem basic, but it's an essential part of any
 
 ## 📂 Pipeline JSON Export
 
-The full pipeline is available as an exported `.json` template [here](./adf_pipeline_copy_movies.json), which can be imported directly into another ADF instance.
+The full pipeline is available as an exported `.json` template [here](./adf_export/pipeline1.json), which can be imported directly into another ADF instance.
 
 ---
 
